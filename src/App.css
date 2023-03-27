@@ -1,0 +1,21 @@
+.App {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  height: 100vh;
+}
+.tasks {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+
+}
+
+
+
+
+
+
+
+

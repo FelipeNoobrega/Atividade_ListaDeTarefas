@@ -1,0 +1,19 @@
+.header {
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    height: 80px;  
+}
+
+.header h1{
+    margin-right: 40px;
+    font-size: 1.6rem;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aqua;
+}
+
+.header button{
+    margin: 20px 10px;
+}
